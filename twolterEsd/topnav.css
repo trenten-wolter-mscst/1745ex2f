@@ -1,0 +1,114 @@
+﻿nav {
+	position: absolute;
+	top: 10em;
+	left: 10%;
+	height: 100%;
+	width: 100%;
+	z-index: 10;
+	
+
+
+}
+#menu1 {
+    overflow: hidden; 
+    width: 9.5em; height: 3em; 
+    float: left;
+	border: thin solid #FFDD00;
+	background-image: url(images/blox1.jpg);
+
+}
+
+}
+#menu1 {
+-webkit-transition: 200ms ease-in-out;
+-moz-transition: 200ms ease-in-out;
+-o-transition: 200ms ease-in-out;
+-ms-transition: 200ms ease-in-out;
+transition: 200ms ease-in-out;
+}	
+
+#menu2 {
+    overflow: hidden; 
+    width: 9.5em; height: 3em; 
+    float: left;
+	border: thin solid #FFDD00;
+	background-image: url(images/blox1.jpg);
+}
+#menu2:hover {
+	height: 5.35em;
+	
+}
+#menu2 {
+-webkit-transition: 200ms ease-in-out;
+-moz-transition: 200ms ease-in-out;
+-o-transition: 200ms ease-in-out;
+-ms-transition: 200ms ease-in-out;
+transition: 200ms ease-in-out;
+}
+
+#menu3 {
+    overflow: hidden; 
+    width: 9.5em; height: 3em; 
+    float: left;
+	border: thin solid #FFDD00;
+	background-image: url(images/blox1.jpg);
+}
+#menu3:hover {
+	height: 5.35em
+}
+#menu3 {
+-webkit-transition: 200ms ease-in-out;
+-moz-transition: 200ms ease-in-out;
+-o-transition: 200ms ease-in-out;
+-ms-transition: 200ms ease-in-out;
+transition: 200ms ease-in-out;
+}
+		
+ul.topnav {
+	list-style: none;
+	padding: 0 0.25em;
+	margin: 0;
+	float: left;
+	font-size: 1.2em;
+	background-image: url(images/blox1.jpg);
+}
+ul.topnav li {
+    margin: 0;
+    position: relative; /*--Declare X and Y axis base--*/
+    list-style: none;
+}
+ul.topnav li span {
+    padding: .5em 1.5em .5em 1.5em;
+    color: #FF0000;
+    display: block;
+    text-decoration: none;
+    float: left;
+    list-style: none;
+	width: 4.35
+	
+}
+ul.topnav li a {
+    padding: .5em 1.5em .5em 1.5em;
+    color: #FF0000;
+    display: block;
+    text-decoration: none;
+    float: left;
+    list-style: none;
+	width: 4.35em;
+	
+
+}
+ul.topnav li a:hover{
+	width: 4.35em;
+	color: #FFDD00;	
+	background-image: url(images/103.jpg);	
+	border: thin solid #FFDD00;
+	
+}
+ul.topnav li a  {
+-webkit-transition: 200ms linear;
+-moz-transition: 200ms linear;
+-o-transition: 200ms linear;
+-ms-transition: 200ms linear;
+transition: 200ms linear;
+}

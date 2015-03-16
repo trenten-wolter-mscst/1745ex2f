@@ -1,0 +1,85 @@
+﻿body {
+    margin: 0.25em auto 0.25em auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+	background-image: url(images/x21.jpg);
+}
+
+article, aside, figcaption, figure, footer, header, nav, section
+{
+    display: block;
+}
+footer {
+    clear: both;
+    margin: 0.25em auto 0.25em auto;
+}
+article {
+	clear: both;
+	background-image: url(images/blox1.jpg);
+	background-repeat: repeat;
+	padding-left: 15px;
+	padding-right: 15px;
+	border: thin solid #FFDD00;
+	margin: 0;
+	margin-top: 4.5em;		
+	padding: 0.25em;
+}
+article p {
+	color: #404040;
+	padding-left: 15px;
+	padding-right: 15px;
+	color: #FFDD00;
+}
+article h2,h3, h4, h5, h6 {
+    color: #FF0000;
+	padding-left: 7px;
+}
+header {
+	border: thin solid #FFDD00;
+	margin: 0;
+	padding: 0.25em;
+	text-align: center;
+	color: #FFDD00;
+	height: 8.5em;
+	overflow: hidden;
+	background-image: url(images/blox1.jpg);
+}
+#SVGdiv {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+footer {
+	border: thin solid #FFDD00;
+	background-color: #DDEEEE;
+	padding: 0.25em;
+	color: #FFDD00;
+	background-image: url(images/blox1.jpg);
+	margin-top: 22px;
+}
+footer {
+    font-size: x-small;
+}
+#pageContainer {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#homeImage {
+	float: right;
+	margin-top: 18px;
+	margin-right: 18px;
+	margin-bottom: 18px;
+	margin-left: 18px;
+
+	
+	
+	
+}
+#centerImage {
+	text-align: center;
+
+}
